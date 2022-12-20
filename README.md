@@ -1,17 +1,20 @@
-# Nome do meu projeto
+# lista-de-tarefas-jsf
 
-Rápida descrição do objetivo de fazer esse projeto
+Lista de tarefas
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+:label: tecnologias | Java, jsf, hibernate, postgresql, jstl, primefaces, html, css <br>
+:rocket: URL | https://github.com/Alisson7Neres/lista-de-tarefas-jsf
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+<img src="https://github.com/Alisson7Neres/lista-de-tarefas-jsf/blob/master/img/Captura%20de%20tela_2022-08-22_22-33-22.png?raw=true">
+#######################################################################################################################################
+<img src="https://github.com/Alisson7Neres/lista-de-tarefas-jsf/blob/master/img/Captura%20de%20tela_2022-10-09_12-54-48.png?raw=true">
 
-## Detalhes do projeto
+# Preview 
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+<img src="https://github.com/Alisson7Neres/lista-de-tarefas-jsf/blob/master/img/Captura%20de%20tela%20de%202022-12-19%2023-38-42.png?raw=true">
+
+<img src="https://github.com/Alisson7Neres/lista-de-tarefas-jsf/blob/master/img/Captura%20de%20tela%20de%202022-12-19%2023-38-54.png?raw=true">
+
+<img src="https://github.com/Alisson7Neres/lista-de-tarefas-jsf/blob/master/img/Captura%20de%20tela%20de%202022-12-19%2023-39-03.png?raw=true#vitrinedev">
+
+<img src="https://github.com/Alisson7Neres/lista-de-tarefas-jsf/blob/master/img/Captura%20de%20tela%20de%202022-12-19%2023-39-29.png?raw=true">
